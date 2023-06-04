@@ -1,0 +1,11 @@
+ * {
+  background-color: #eee;
+ }
+
+ .dino {
+  width: 60px;
+  height: 60px;
+  postion: absolute;
+  bottom: 0;
+  background-color: red
+ }
